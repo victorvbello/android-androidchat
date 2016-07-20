@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AndroidChat</string>
+    <string name="login.message.email">Correo electórnico</string>
+    <string name="login.message.password">Password</string>
+    <string name="login.button.signin">Inciar sesión</string>
+    <string name="login.button.signup">Crear cuenta</string>
+    <string name="login.error.message.signin">Imposible iniciar sesión %s</string>
+    <string name="login.error.message.signup">Imposible registrar nuevo usuario %s</string>
+    <string name="login.notice.message.signup">Usuario registrado exitosamente</string>
+
+    <string name="contactlist.menu.action.signoff">Cerrar sessión</string>
+    <string name="contactlist.title">Contactos</string>
+    <string name="contactlist.message.online">Online</string>
+    <string name="contactlist.message.offline">Offline</string>
+
+    <string name="addContact.message.title">Agregar contacto</string>
+    <string name="addContact.message.add">Aceptar</string>
+    <string name="addContact.message.cancel">Cancelar</string>
+    <string name="addContact.message.contactadded">Contacto agregado exitosamente</string>
+    <string name="addContact.message.error">Imposible agregar usuario no existente</string>
+
+    <string name="chat.message.online">Online</string>
+    <string name="chat.message.offline">Offline</string>
+
+</resources>
