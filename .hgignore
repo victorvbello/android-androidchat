@@ -1,0 +1,12 @@
+syntax: glob
+.idea/
+.gradle/
+/*/local.properties
+/*/out
+/*/*/build
+/*/*/production
+*.iml
+*.iws
+*.ipr
+*~
+*.swp
